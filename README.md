@@ -1,16 +1,15 @@
 <div align="center">
 
+<p>&nbsp;</p>
+
   <!-- Logo oben -->
   <img src="https://raw.githubusercontent.com/TheSalesforceOne/Salesforce-Config-Workbook/refs/heads/main/SOLCOM_Logo-1c_rgb_transp.webp" width="150">
 
-  <!-- Trennlinie -->
-  <hr width="60%">
-  
-  <!-- Hauptüberschrift -->
-  <h3>CONFIG WORKBOOK</h3>
+  <p>&nbsp;</p>
 
-  <!-- Trennlinie -->
-  <hr width="60%">
+  <h1>CONFIG WORKBOOK</h1>
+
+<p>&nbsp;</p>
 
   <!-- Hauptbild -->
   <img src="https://github.com/TheSalesforceOne/Salesforce-Config-Workbook/blob/main/7cb53344-385a-46d2-bbd4-c1799bac65eb.png?raw=true" width="250">
@@ -19,9 +18,15 @@
 <p>&nbsp;</p>
 
   <!-- Untertitel -->
-  <p><em>Internes Dokument für die Salesforce-Einführung</em></p>
+20.05.2025<br>
+SOLCOM GmbH<br>
+Schuckertstraße 1, Reutlingen‎<br>
 
 </div>
+
+<br>
+
+<h2>Inhaltsverzeichnis</h2>
 
 ### Technische Details
 
